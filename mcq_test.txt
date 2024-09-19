@@ -1,0 +1,121 @@
+Question 1:
+What type of wave is sound?
+A. Transverse wave
+B. Longitudinal wave
+C. Mechanical wave
+D. Electromagnetic wave
+
+Correct Answer: B
+Explanation: Sound waves propagate as a series of compressions and rarefactions in the medium, which is characteristic of longitudinal waves.
+--------------------------------------------------
+
+Question 2:
+What determines the pitch of a sound?
+A. Amplitude
+B. Frequency
+C. Speed
+D. Time period
+
+Correct Answer: B
+Explanation: The faster the vibration of the source, the higher is the frequency and the higher is the pitch.
+--------------------------------------------------
+
+Question 3:
+What is the unit of measurement for frequency?
+A. Hertz (Hz)
+B. Second (s)
+C. Meter (m)
+D. Kilogram (kg)
+
+Correct Answer: A
+Explanation: The SI unit of frequency is hertz, denoted by the symbol Hz.
+--------------------------------------------------
+
+Question 4:
+What is the time taken by two consecutive compressions or rarefactions to cross a fixed point called?
+A. Time period
+B. Frequency
+C. Speed
+D. Amplitude
+
+Correct Answer: A
+Explanation: The time taken for one complete oscillation is called the time period of the sound wave.
+--------------------------------------------------
+
+Question 5:
+What determines the loudness or softness of a sound?
+A. Frequency
+B. Amplitude
+C. Speed
+D. Time period
+
+Correct Answer: B
+Explanation: The amplitude of the sound wave depends upon the force with which an object is made to vibrate.
+--------------------------------------------------
+
+Question 6:
+What type of wave does light represent?
+A. Transverse wave
+B. Longitudinal wave
+C. Mechanical wave
+D. Electromagnetic wave
+
+Correct Answer: D
+Explanation: Light is a transverse wave, but it's not a mechanical wave as it doesn't involve the oscillation of particles or pressure changes in the medium.
+--------------------------------------------------
+
+Question 7:
+What is the relationship between frequency and time period?
+A. Frequency = Time period
+B. Frequency × Time period = 1
+C. Frequency / Time period = Speed
+D. Frequency + Time period = Amplitude
+
+Correct Answer: C
+Explanation: The time taken by two consecutive compressions or rarefactions to cross a fixed point is called the time period, and it's related to frequency as Frequency / Time period = Speed.
+--------------------------------------------------
+
+Question 8:
+What can be represented graphically in Fig. 11.6(c)?
+A. Amplitude of the wave
+B. Frequency of the sound wave
+C. Density and pressure changes when the sound wave moves in the medium
+D. Speed of the sound wave
+
+Correct Answer: C
+Explanation: The graphical representation shows how density and pressure change when the sound wave moves in the medium.
+--------------------------------------------------
+
+Question 9:
+What is the term for the loudness or softness of a sound?
+A. Pitch
+B. Amplitude
+C. Frequency
+D. Loudness
+
+Correct Answer: D
+Explanation: The term for the loudness or softness of a sound is 'loudness', and it's determined basically by its amplitude.
+--------------------------------------------------
+
+Question 10:
+What is represented by the symbol ν (Greek letter , nu) in Fig. 11.7?
+A. Speed
+B. Frequency
+C. Time period
+D. Amplitude
+
+Correct Answer: B
+Explanation: The symbol ν represents the frequency of the sound wave, denoted by the Greek letter nu.
+--------------------------------------------------
+
+Question 11:
+What is an example of a transverse wave?
+A. Sound wave in a medium
+B. Light wave in air
+C. Wave on water surface after dropping a pebble
+D. Longitudinal wave in a slinky
+
+Correct Answer: C
+Explanation: The waves you see on the water surface after dropping a pebble is an example of a transverse wave.
+--------------------------------------------------
+
