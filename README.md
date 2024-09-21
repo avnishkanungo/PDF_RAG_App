@@ -5,6 +5,15 @@ The appliaction here is an advanced Retrieval-Augmented Generation (RAG) applica
 
 In addition we are utilizing LLMs installed locally using the Ollama registery, which will need to run on our machine's background for us to utilize the same.
 
+## Feature:
+
+1. Using locally installed LLM using Ollama
+2. Vector DB querying process optimized, vector DB queried only when there the prompt is relevant to the Vector DB content. This is done by calculating the cosine similarity of the vector embedding of the prompt and comparing it with the average vector embedding value of the data stored in the vector DB.
+3. The agentic workflow includes the following tools:
+    3.1 Question Answering Tool
+    3.2 Note Taker Tool
+    3.3 MCQ Question Generator Tool
+
 ## **Steps to run the code:**
 
 1. Download Ollama registry to install the model locally from this [link](https://ollama.com/download/linux)
@@ -34,5 +43,6 @@ How do you want to implement this app(terminal/API):
 ```
 6. If you choose terminal, this will work as a terminal application and you will be asked for a prompt for the application in the terminal. If you choose the API option, this will start a local uvicorn server which you can use by navigating to the local server with /docs (127.0.0.1:8000/docs). Here you will find the Swagger UI which you can use to test out agent using the API.
 
+## Output Example:
 
 
