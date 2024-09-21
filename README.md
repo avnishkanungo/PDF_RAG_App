@@ -47,7 +47,41 @@ How do you want to implement this app(terminal/API):
 ## Output Example:
 
 1. Terminal based outputs:
-    - Prompts Relevant to the vector DB content:
-    ![Terminal Output 1](./images/terminal_output1.png)
+    
+    - Prompts relevant to the vector DB content:
+    
+    ![Terminal Output 1](./images/terminal_output4.png)
+
+    - Prompts not relevant to the vector DB content:
+
+    ![Terminal Output 2](./images/terminal_output1.png)
+
+    - MCQ Test Paper Creation Agent:
+
+    ![Terminal Output 3](./images/terminal_output3.png)
+
+    - Note Taker Agent:
+
+    ![Terminal Output 4](./images/terminal_output2.png)
+
+2. API based outputs:
+
+    - Prompts relevant to the vector DB content:
+    
+    ![API Output 1](./images/api_output3.png)
+
+    - Prompts not relevant to the vector DB content:
+
+    ![API Output 2](./images/api_output1.png)
+
+    - MCQ Question Generation Agent:
+
+    ![API Output 3](./images/api_output2.png)
+
+
+
+
+
+
 
 
