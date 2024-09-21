@@ -27,6 +27,12 @@ pip install -r requirements.txt
 ```
 python query_engine.py
 ```
+5. Once the command runs successfully, you will be promted in the terminal to enter how you want to tun this app with the options being Terminal or API.
+
+```
+How do you want to implement this app(terminal/API):
+```
+6. If you choose terminal, this will work as a terminal application and you will be asked for a prompt for the application in the terminal. If you choose the API option, this will start a local uvicorn server which you can use by navigating to the local server with /docs (127.0.0.1:8000/docs). Here you will find the Swagger UI which you can use to test out agent using the API.
 
 
 

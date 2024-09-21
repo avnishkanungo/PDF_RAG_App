@@ -181,7 +181,7 @@ async def ask_question(query: Query):
         
         
 if __name__ == "__main__":
-    option = input("How do you want to implement this app(terminal/API):")
+    option = input("How do you want to run this app(terminal/API):")
     if option.lower() == "terminal":
         agent_call()
     elif option.lower() == "api":
