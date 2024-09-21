@@ -13,6 +13,7 @@ In addition we are utilizing LLMs installed locally using the Ollama registery, 
     - Question Answering Tool
     - Note Taker Tool
     - MCQ Question Generator Tool
+4. Output of the API based setup also provides a base64 encoded .wav file, which is implemented using the Sarvam Text To Speech API.
 
 ## **Steps to run the code:**
 
@@ -45,6 +46,8 @@ How do you want to implement this app(terminal/API):
 
 ## Output Example:
 
-1. Temia
+1. Terminal based outputs:
+
+![Terminal Output 1](./images/terminal_output1.png)
 
 
