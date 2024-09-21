@@ -10,9 +10,9 @@ In addition we are utilizing LLMs installed locally using the Ollama registery, 
 1. Using locally installed LLM using Ollama
 2. Vector DB querying process optimized, vector DB queried only when there the prompt is relevant to the Vector DB content. This is done by calculating the cosine similarity of the vector embedding of the prompt and comparing it with the average vector embedding value of the data stored in the vector DB.
 3. The agentic workflow includes the following tools:
-- Question Answering Tool
-- Note Taker Tool
-- MCQ Question Generator Tool
+    - Question Answering Tool
+    - Note Taker Tool
+    - MCQ Question Generator Tool
 
 ## **Steps to run the code:**
 
