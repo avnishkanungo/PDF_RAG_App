@@ -47,7 +47,7 @@ How do you want to implement this app(terminal/API):
 ## Output Example:
 
 1. Terminal based outputs:
-
-![Terminal Output 1](./images/terminal_output1.png)
+    - Prompts Relevant to the vector DB content:
+    ![Terminal Output 1](./images/terminal_output1.png)
 
 
