@@ -15,7 +15,9 @@ In addition we are utilizing LLMs installed locally using the Ollama registery, 
     - MCQ Question Generator Tool
 4. Output of the API based setup also provides a base64 encoded .wav file, which is implemented using the Sarvam Text To Speech API.
 
-## **Steps to run the code:**
+## Steps to run the code:
+
+**Please ensure that you run this application on a machine with a GPU as we are using a local LLM**
 
 1. Download Ollama registry to install the model locally from this [link](https://ollama.com/download/linux)
 2. Once you have Ollama installed, you can enable the ollama server and install the required model using the below commands in the termina:
