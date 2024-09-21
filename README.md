@@ -1,4 +1,4 @@
-# PDF_RAG_App
+# PDF Based RAG Applications with Agent Implementation
 
 ## Introduction:
 The appliaction here is an advanced Retrieval-Augmented Generation (RAG) application designed to answer quesions on the basis of a document. The application also has automatically triggered agents that can help to take notes and if needed also generate a set of multiple choice questions based on the content of the document.
