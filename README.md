@@ -130,6 +130,11 @@ How do you want to implement this app(terminal/API):
     }
     ```
 
+## Notes:
+1. The different agents are called automatically based on our prompt, hence there is just one API endpoint.
+2. The Terminal based implementation not just provides the questions in the output but also saves a file for the note and mcq test generator agent.
+3. The API based implemntation just provides the MCQ questions in the API response.  
+
 
 
 
